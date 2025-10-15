@@ -3,7 +3,7 @@
 Hi! I'm Wan Harith Azdy bin Wan Ismail, a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image]([image.jpg](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-WanHarithAzdy/blob/a7ea6362e87a60521dad8264dfcfbd38011b0b4c/image.jpg))  <!-- Link to the uploaded image -->
+![My Image]https://github.com/SoftwareMaintenanceEvolution/tutorial-1-WanHarithAzdy/blob/3eeef57b65edf322628fd6e6c44d396e6462d3ee/image.jpg  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
