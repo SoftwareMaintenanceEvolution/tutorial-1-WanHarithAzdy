@@ -5,6 +5,9 @@ I [expect to learn a lot about modern software maintenance practices and how to 
 
 ![My Image](photo.jpg)  <!-- Link to the uploaded image -->
 
+Fun Fact !!
+I love to play guitar, and drawing
+
 ## GitHub Profile
 
 You can view my personalized GitHub profile https://github.com/WanHarithAzdy
